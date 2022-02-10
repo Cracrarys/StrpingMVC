@@ -375,7 +375,7 @@
 
             <artifactId>hibernate-core</artifactId>
 
-            <version>4.2.21.Final</version>
+            <version>5.4.24.Final</version>
 
         </dependency>
 
